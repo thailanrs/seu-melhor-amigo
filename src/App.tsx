@@ -1,7 +1,10 @@
+import Home from "./pages/Home";
+import "./global.css"
+
 function App() {
   return (
     <div className="App">
-      <h1>Olá mundo</h1>
+        <Home />
     </div>
   );
 }
